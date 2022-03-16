@@ -8,7 +8,7 @@ def subtract(x,y):
 
 # mul imple
 def multiply(x,y):
-	pass
+	return x*y   # from local repo
 
 # div imple
 def divide(x,y):
