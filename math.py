@@ -4,7 +4,7 @@ def add(x,y):
 
 # sub imple
 def subtract(x,y):
-	pass
+	return x-y        # remote repository
 
 # mul imple
 def multiply(x,y):
